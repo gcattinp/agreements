@@ -1,6 +1,3 @@
-NATION 
-: Import definitions ipfs://bafybeig27rf3y3t53gn7nilq7ljvdnofciyi6k4dbb5ywbnl2kcfa7wqte/NATION.linked.md
-
 Seller 
 : 0xabc
 
