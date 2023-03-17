@@ -27,15 +27,15 @@ The Buyer.
 
 ##  TOKEN PURCHASE
 
-### The Seller agrees to sell [%NATION Amount] NATION Tokens to the Buyer at a price of [%NATION Value] per Token.
+The Seller agrees to sell [%NATION Amount] NATION Tokens to the Buyer at a price of [%NATION Value] per Token.
 
-### The Buyer agrees to purchase the Tokens for a total of [%NATION Value].
+The Buyer agrees to purchase the Tokens for a total of [%NATION Value].
 
 ## TRANSACTION
 
-### The Buyer shall send the Total Purchase Price in USDC to the Seller's designated wallet address.
+The Buyer shall send the Total Purchase Price in USDC to the Seller's designated wallet address.
 
-### The Seller shall transfer the Tokens to the Buyer's designated wallet address.
+The Seller shall transfer the Tokens to the Buyer's designated wallet address.
 
 ## Breach of contract
 
