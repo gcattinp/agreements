@@ -1,18 +1,19 @@
-NATION : Import definitions ipfs://bafybeig27rf3y3t53gn7nilq7ljvdnofciyi6k4dbb5ywbnl2kcfa7wqte/NATION.linked.md
+NATION
+: Import definitions ipfs://bafybeig27rf3y3t53gn7nilq7ljvdnofciyi6k4dbb5ywbnl2kcfa7wqte/NATION.linked.md
 
-Seller 
+Seller
 : 0xabc
 
-signers 
+signers
 : 0xdfg, 0xhij & 0xklm
 
-Buyer 
+Buyer
 : 0xnop
 
-NATION Amount 
+NATION Amount
 : 20 NATION
 
-NATION UV 
+NATION UV
 : 850 USDC
 
 NATION TV
