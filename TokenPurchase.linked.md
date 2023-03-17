@@ -1,3 +1,5 @@
+NATION : Import definitions ipfs://bafybeig27rf3y3t53gn7nilq7ljvdnofciyi6k4dbb5ywbnl2kcfa7wqte/NATION.linked.md
+
 Seller 
 : 0xabc
 
@@ -10,8 +12,11 @@ Buyer
 NATION Amount 
 : 20 NATION
 
-NATION Value 
+NATION UV 
 : 850 USDC
+
+NATION TV
+: 17,000 USDC
 
 DATE
 : 23/03/2023
@@ -27,9 +32,9 @@ The Buyer.
 
 ##  TOKEN PURCHASE
 
-The Seller agrees to sell [%NATION Amount] NATION Tokens to the Buyer at a price of [%NATION Value] per Token.
+The Seller agrees to sell [%NATION Amount] to the Buyer at a price of [%NATION UV] per Token.
 
-The Buyer agrees to purchase the Tokens for a total of [%NATION Value].
+The Buyer agrees to purchase the Tokens for a total of [%NATION TV].
 
 ## TRANSACTION
 
