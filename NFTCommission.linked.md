@@ -27,7 +27,7 @@ The Artist shall create a commission in NFT format for the Collector and deploy 
 
 ## Compensation
 
-The Collector shall pay the Artist [%Price] for the NFT. Both parties agree to put the equivalent amount as collateral in NATION to formalize the Agreement.
+The Collector shall pay the Artist [%Price] for the NFT. Both parties agree to put 1 NATION as collateral to formalize the Agreement.
 
 ## Feedback
 
