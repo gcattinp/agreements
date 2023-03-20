@@ -2,22 +2,22 @@ NATION
 : Import definitions ipfs://bafybeig27rf3y3t53gn7nilq7ljvdnofciyi6k4dbb5ywbnl2kcfa7wqte/NATION.linked.md
 
 Collector
-: 0xCol
+: 0x636d65212C815b93B8E5b069f7082169cec851b7
 
 Artist
-: 0xArt
+: 0x67bCBfa37B2de1463034b6CD5584118dbFBE473D
 
 Deadline
-: 10 days from the date of this Agreement
+: 24 hours from the creation of this Agreement
 
 Target Blockchain
 : Polygon
 
 Price
-: 0.5 ETH
+: 800 USDC
 
 Payment Date
-: the day it is minted
+: Once the artist sends the mint txn to the Collector
 
 ---
 
