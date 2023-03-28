@@ -20,7 +20,8 @@ Payment Date
 : Once the artist sends the mint txn to the Collector
 
 Emails
-: Colector: 0x636d65212C815b93B8E5b069f7082169cec851b7@ethereum.email , Artist: 0x67bCBfa37B2de1463034b6CD5584118dbFBE473D@ethereum.email
+: Colector: 0x636d65212C815b93B8E5b069f7082169cec851b7@ethereum.email
+Artist: 0x67bCBfa37B2de1463034b6CD5584118dbFBE473D@ethereum.email
 
 ---
 
