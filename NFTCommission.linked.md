@@ -20,7 +20,7 @@ Payment Date
 : Once the artist sends the mint txn to the Collector
 
 Emails
-: Colector: 0x636d65212C815b93B8E5b069f7082169cec851b7@ethereum.email
+: Colector: 0x636d65212C815b93B8E5b069f7082169cec851b7@ethereum.email,
 Artist: 0x67bCBfa37B2de1463034b6CD5584118dbFBE473D@ethereum.email
 
 ---
@@ -43,7 +43,7 @@ The Collector shall pay for the NFT on [%Payment Date].
 
 ## Breach of contract
 
-In the event that the Collector fails to pay for the NFT, the Artist may dispute the Agreement before the court.
+In the event that either party fails to fulfill their obligations in this agreement, then .
 
 ## Term
 
@@ -52,3 +52,7 @@ This Agreement shall become effective once both parties join the Nation3 Agreeme
 ## Dispute Notification
 
 In case of a dispute, the parties should be notified to their respective Emails
+
+## Dispute Resolution Clause
+
+Any dispute shall be resolved in accordance with Nation3's rules
