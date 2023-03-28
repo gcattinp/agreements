@@ -48,5 +48,5 @@ This Agreement shall become effective once both parties join the Nation3 Agreeme
 ## Dispute Notification
 
 In case of a dispute, the parties should be notified to the following emails:
-Collector: 0x636d65212C815b93B8E5b069f7082169cec851b7@ethereum.email
-Artist: 0x67bCBfa37B2de1463034b6CD5584118dbFBE473D@ethereum.email
+* Collector: 0x636d65212C815b93B8E5b069f7082169cec851b7@ethereum.email
+* Artist: 0x67bCBfa37B2de1463034b6CD5584118dbFBE473D@ethereum.email
